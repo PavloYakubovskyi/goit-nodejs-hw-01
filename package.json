@@ -5,5 +5,8 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.1.0"
   }
 }
